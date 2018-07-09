@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 36,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.7.7",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,8 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/128x128-2.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -469,7 +470,7 @@
               "background-color": "@bg-value"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_cid": "qQq74gMFjH",
